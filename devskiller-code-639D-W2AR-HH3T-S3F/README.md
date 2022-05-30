@@ -1,4 +1,4 @@
-# JavaScript Array Operations
+# JavaScript Array Operations Done by Alex Sylvain Luenga
 
 Your task is to implement operations on arrays, perforrming data processing.
 
